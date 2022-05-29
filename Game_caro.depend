@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1652629386 source:d:\c++\draft\game_caro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"config.h"
+	"botbaseline.h"
+
+1652629363 source:d:\c++\draft\game_caro\botbaseline.cpp
+	"botbaseline.h"
+
+1652616737 d:\c++\draft\game_caro\botbaseline.h
+	<iostream>
+	<stdlib.h>
+	"config.h"
+
+1652511470 d:\c++\draft\game_caro\config.h
+
+1652628519 source:d:\c++\draft\game_caro\config.cpp
+	"config.h"
+
+1652517051 d:\c++\draft\game_caro\baseobject.h
+	"CommonFunction.h"
+
+1652526539 d:\c++\draft\game_caro\commonfunction.h
+	<windows.h>
+	<string>
+	"SDL2/SDL.h"
+	<iostream>
+
+1652628520 source:d:\c++\draft\game_caro2\game_caro\config.cpp
+	"config.h"
+
+1653391760 d:\c++\draft\game_caro2\game_caro\config.h
+
+1653391760 source:d:\c++\draft\game_caro2\game_caro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"config.h"
+	"botbaseline.h"
+
+1653391879 d:\c++\draft\game_caro2\game_caro\botbaseline.h
+	<iostream>
+	<stdlib.h>
+	"config.h"
+
+1653391130 source:d:\c++\draft\game_caro2\game_caro\botbaseline.cpp
+	"botbaseline.h"
+
